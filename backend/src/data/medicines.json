@@ -1,0 +1,82 @@
+[
+  {
+    "id": "a1b2c3d4-0001",
+    "name": "Amoxicillin 500mg",
+    "category": "Antibiotic",
+    "quantity": 240,
+    "unit": "capsules",
+    "price": 12.5,
+    "expiryDate": "2025-08-15",
+    "supplier": "MedCore Pharma"
+  },
+  {
+    "id": "a1b2c3d4-0002",
+    "name": "Paracetamol 1000mg",
+    "category": "Analgesic",
+    "quantity": 500,
+    "unit": "tablets",
+    "price": 4.2,
+    "expiryDate": "2026-03-20",
+    "supplier": "HealthPlus Ltd"
+  },
+  {
+    "id": "a1b2c3d4-0003",
+    "name": "Metformin 850mg",
+    "category": "Antidiabetic",
+    "quantity": 180,
+    "unit": "tablets",
+    "price": 8.75,
+    "expiryDate": "2025-06-30",
+    "supplier": "BioSynth Inc"
+  },
+  {
+    "id": "a1b2c3d4-0004",
+    "name": "Atorvastatin 20mg",
+    "category": "Cholesterol",
+    "quantity": 90,
+    "unit": "tablets",
+    "price": 22,
+    "expiryDate": "2026-11-01",
+    "supplier": "CardioMed"
+  },
+  {
+    "id": "a1b2c3d4-0005",
+    "name": "Omeprazole 20mg",
+    "category": "Antacid",
+    "quantity": 60,
+    "unit": "capsules",
+    "price": 9.9,
+    "expiryDate": "2025-07-10",
+    "supplier": "GastroPharm"
+  },
+  {
+    "id": "a1b2c3d4-0006",
+    "name": "Cetirizine 10mg",
+    "category": "Antihistamine",
+    "quantity": 300,
+    "unit": "tablets",
+    "price": 5.6,
+    "expiryDate": "2027-01-25",
+    "supplier": "AllerCare"
+  },
+  {
+    "id": "a1b2c3d4-0007",
+    "name": "Azithromycin 250mg",
+    "category": "Antibiotic",
+    "quantity": 72,
+    "unit": "tablets",
+    "price": 18.3,
+    "expiryDate": "2025-09-05",
+    "supplier": "MedCore Pharma"
+  },
+  {
+    "id": "9c5e056a-5857-4b70-b4bb-1e82f91d6068",
+    "name": "mmdm",
+    "category": "Antihistamine",
+    "quantity": 100,
+    "unit": "mg",
+    "price": 200,
+    "expiryDate": "2026-05-09",
+    "supplier": "fmf"
+  }
+]
